@@ -1,2 +1,23 @@
 
+html {
+  background: url("images/blossombg.jpg");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
+body{
+  background-color: white;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px 20px 20px 20px;
+  border: 2px solid #D4AF37;
+}
+
+h1{
+  color: #D4AF37;
+  letter-spacing: 3rem;
+  word-wrap: normal;
+  overflow: hidden;
+  text-align: center;
+}
