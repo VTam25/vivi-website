@@ -21,3 +21,24 @@ h1{
   overflow: hidden;
   text-align: center;
 }
+
+p{
+ font-size: large;
+ margin-top: 30px;
+}
+
+.header{
+  border: 2px solid #D4AF37;
+  margin-bottom: 30px;
+}
+
+.main{
+  text-decoration: lightslategray;
+  text-align: center;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
