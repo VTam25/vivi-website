@@ -68,8 +68,8 @@ table{
   align-self: center;
 }
 
-@media only screen and (max-width: 600px) {
-  img {
+@media only screen and (max-width: 1000px) {
+  .social{
        height: 50px;
        width: 50px;
   }
