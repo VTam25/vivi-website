@@ -22,6 +22,14 @@ h1{
   text-align: center;
 }
 
+h2{
+  color: #D4AF37;
+  letter-spacing: 1rem;
+  word-wrap: normal;
+  overflow: hidden;
+  text-align: center; 
+}
+
 p{
  font-size: medium;
  margin-top: 30px;
@@ -35,6 +43,11 @@ p{
 .main{
   text-decoration: lightslategray;
   text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact{
+  border: 2px solid #D4AF37;
 }
 
 .center{
