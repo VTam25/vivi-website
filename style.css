@@ -66,4 +66,5 @@ table{
   margin-left: auto;
   margin-right: auto;
   table-layout: fixed;
+  align-self: center;
 }
