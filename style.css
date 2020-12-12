@@ -12,46 +12,58 @@ body{
   margin: 0 auto;
   padding: 10px 20px 20px 20px;
   border: 2px solid #D4AF37;
+  overflow: auto;
+  overflow-wrap: break-word;
 }
 
 h1{
   color: #D4AF37;
-  letter-spacing: 3rem;
-  word-wrap: normal;
-  overflow: hidden;
+  letter-spacing: 2rem;
   text-align: center;
 }
 
 h2{
   color: #D4AF37;
   letter-spacing: 1rem;
-  word-wrap: normal;
-  overflow: hidden;
   text-align: center; 
+}
+
+h3{
+  color: #D4AF37;
 }
 
 p{
  font-size: medium;
- margin-top: 30px;
+ margin-top: 20px;
 }
 
 .header{
-  border: 2px solid #D4AF37;
+  border-bottom: 2px solid #D4AF37;
   margin-bottom: 30px;
 }
 
 .main{
-  text-decoration: lightslategray;
   text-align: center;
-  margin-bottom: 30px;
 }
 
 .contact{
-  border: 2px solid #D4AF37;
+  margin-top: 30px;
+  border-top: 2px solid #D4AF37;
 }
 
-.center{
+.imgcenter{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+td {
+  padding: 10px;
+  align-items: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
 }
