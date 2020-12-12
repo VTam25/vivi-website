@@ -68,7 +68,7 @@ table{
   align-self: center;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1200px) {
   .social{
        height: 50px;
        width: 50px;
