@@ -1,8 +1,8 @@
 
 html {
   background: url("images/blossombg.jpg");
-  background-repeat: round;
-  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 
