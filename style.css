@@ -2,7 +2,7 @@
 html {
   background: url("images/blossombg.jpg");
   background-repeat: round;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
 }
 
