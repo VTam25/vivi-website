@@ -67,3 +67,10 @@ table{
   table-layout: fixed;
   align-self: center;
 }
+
+@media only screen and (max-width: 600px) {
+  img {
+       height: 50px;
+       width: 50px;
+  }
+}
